@@ -1,0 +1,6 @@
+Nome: aula01_web2
+usuario: root
+senha: 
+
+
+obs: importar as cidades através do arquivo brasil.mysql
