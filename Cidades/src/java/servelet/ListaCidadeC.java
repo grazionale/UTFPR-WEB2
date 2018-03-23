@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author gabri
  */
-@WebServlet(name = "TerceiraServelet", urlPatterns = {"/cidadesC"})
+@WebServlet(name = "TerceiraServelet", urlPatterns = {"/helloC"})
 public class ListaCidadeC extends HttpServlet {
 
     @Override
